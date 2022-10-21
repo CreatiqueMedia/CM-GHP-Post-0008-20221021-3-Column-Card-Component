@@ -68,7 +68,6 @@ Social Links
 - CreatiqueMedia Facebook - [@creatiquemediallc] - https://www.facebook.com/creatiquemediallc
 - CreatiqueMedia Instagram - [@CreatiqueMedia] - https://www.instagram.com/creatiquemedia
 - CreatiqueMedia Twitter - [@CreatiqueMedia1] - https://www.twitter.com/creatiquemedia1
-
 - Ron The Web Dev Facebook - [@ronthewebdev] - https://www.facebook.com/creatiquemediallc
 
 
