@@ -60,7 +60,7 @@ Project Links
 
 - CreatiqueMedia Website - https://www.creatiquemedia.com
 - CreatiqueMedia | Ron The Web Dev Blog - https://www.blog.creatiquemedia.com
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor Profile - [@CreatiqueMedia] - https://www.frontendmentor.io/profile/CreatiqueMedia
 
 Social Links
 
