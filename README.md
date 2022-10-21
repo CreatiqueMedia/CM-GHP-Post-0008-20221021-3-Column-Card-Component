@@ -59,7 +59,7 @@ Mobile View
 Project Links
 
 - CreatiqueMedia Website - https://www.creatiquemedia.com
-- CreatiqueMedia | Ron The Web Dev Blog - https://blog.creatiquemedia.com
+- CreatiqueMedia | Ron The Web Dev Blog - https://www.blog.creatiquemedia.com
 - CreatiqueMedia Frontend Mentor Solution Page: https://www.frontendmentor.io/solutions/responsive-3-column-card-component-HKAWIl1yJc
 - CreatiqueMedia Frontend Mentor Profile - [@CreatiqueMedia] - https://www.frontendmentor.io/profile/CreatiqueMedia
 
