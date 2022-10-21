@@ -7,10 +7,10 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#links)
+- [Links](#links)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -37,22 +37,6 @@ Mobile View
 
 ![](./assets/screenshots/mobile-view.png)
 
-## Links
-
-Project Links
-
-- CreatiqueMedia Website - https://www.creatiquemedia.com
-- CreatiqueMedia | Ron The Web Dev Blog - https://www.blog.creatiquemedia.com
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
-Social Links
-
-- CreatiqueMedia Facebook - [@creatiquemediallc] - https://www.facebook.com/creatiquemediallc
-- CreatiqueMedia Instagram - [@CreatiqueMedia] - https://www.instagram.com/creatiquemedia
-- CreatiqueMedia Twitter - [@CreatiqueMedia1] - https://www.twitter.com/creatiquemedia1
-
-- Ron The Web Dev Facebook - [@ronthewebdev] - https://www.facebook.com/creatiquemediallc
-
 ## My process
 
 1. I create a project folder structure.
@@ -69,3 +53,21 @@ Social Links
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## Links
+
+Project Links
+
+- CreatiqueMedia Website - https://www.creatiquemedia.com
+- CreatiqueMedia | Ron The Web Dev Blog - https://www.blog.creatiquemedia.com
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+
+Social Links
+
+- CreatiqueMedia Facebook - [@creatiquemediallc] - https://www.facebook.com/creatiquemediallc
+- CreatiqueMedia Instagram - [@CreatiqueMedia] - https://www.instagram.com/creatiquemedia
+- CreatiqueMedia Twitter - [@CreatiqueMedia1] - https://www.twitter.com/creatiquemedia1
+
+- Ron The Web Dev Facebook - [@ronthewebdev] - https://www.facebook.com/creatiquemediallc
+
+
